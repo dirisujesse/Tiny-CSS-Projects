@@ -1,3 +1,11 @@
+* {
+    font-family: 'Quicksand', sans-serif;
+}
+
+body {
+    padding: 2% 5%;
+}
+
 h1,
 h2,
 h3,
