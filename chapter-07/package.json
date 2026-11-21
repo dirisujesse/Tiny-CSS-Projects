@@ -9,7 +9,7 @@
     "url": "https://github.com/michaelgearon/Tiny-CSS-Projects"
   },
   "scripts": {
-    "start": "http-server -a localhost -p 8080 -c-1 ./"
+    "start": "node init && http-server -a localhost -p 8080 -c-1 ./"
   },
   "devDependencies": {
     "http-server": "^14.1.0"
